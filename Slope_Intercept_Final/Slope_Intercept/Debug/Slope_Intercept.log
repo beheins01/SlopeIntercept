@@ -1,0 +1,6 @@
+﻿  Line.cpp
+C:\Users\ben2h\OneDrive\C++ Coding\Slope_Intercept_Final\Slope_Intercept\Line.cpp(127,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ben2h\OneDrive\C++ Coding\Slope_Intercept_Final\Slope_Intercept\Line.cpp(141,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ben2h\OneDrive\C++ Coding\Slope_Intercept_Final\Slope_Intercept\Line.cpp(142,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ben2h\OneDrive\C++ Coding\Slope_Intercept_Final\Slope_Intercept\Line.cpp(143,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Slope_Intercept.vcxproj -> C:\Users\ben2h\OneDrive\C++ Coding\Slope_Intercept_Final\Debug\Slope_Intercept.exe
